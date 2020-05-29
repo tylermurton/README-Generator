@@ -27,8 +27,8 @@ ${data.installation}
 ### ${data.usage}
 
 ## Licenses
-![badge](https://img.shields.io/badge/License-${data.license}-blue.jpg)
-This project is licensed by ${data.license}
+![badge](https://img.shields.io/badge/License-${data.license}-blue.svg)
+This project is licensed under ${data.license}.
 
 ## Contribution
 ### ${data.contributing}
